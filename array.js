@@ -1,2 +1,3 @@
 let array=["ragavel sham","yovan","surya",]
-console.log(array)
+let array1=["ram"]
+console.log(array,array1)
